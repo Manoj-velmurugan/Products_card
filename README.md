@@ -1,5 +1,5 @@
 # Product_card
-## Date:
+## Date: 09/07/2025 
 ## Objective:
 
 To replicate a product card layout similar to those found on real-time e-commerce platform like FlipKart using the CSS Box Model (margin, border, padding, and content).
